@@ -292,10 +292,6 @@ Conduct thorough testing to deliver a reliable and secure product.
 
 <div align="center">
 
-```
-
-```
-
 </div>
 
 ---
